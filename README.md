@@ -1,5 +1,5 @@
 # exploring-sequelize
-Exploring Sequelize ORM
+Exploring Sequelize ORM and data relationships
 ## To begin
 - Run 'npm install' to install dependencies
 - Run 'npm start' 
